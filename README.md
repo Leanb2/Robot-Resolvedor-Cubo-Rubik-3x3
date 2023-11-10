@@ -1,6 +1,21 @@
 # Robot-Resolvedor-Cubo-Rubik-3x3
 Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en un robot que es capaz de resolver el cubo Rubik 3x3 de forma autónoma mediante el uso de un Arduino UNO y una aplicación Android creada por nosotros en App Inventor   
 <br>
+# Materiales utilizados
+<br>
+- X10 - Servomotores SG90
+<br>
+- X1 - Arduino UNO
+<br>
+- X1 - Shield Uno Controlador Servos(nosotros utilizamos este pero se puede utilizar cualquiera que se encuentre: https://articulo.mercadolibre.com.ar/MLA-1302551439-shield-uno-controlador-servos-16ch-i2c-pca9685-pwm-arduino-_JM#position=15&search_layout=stack&type=item&tracking_id=58346647-e868-4fc0-8177-801a2d0baeeb)
+<br>
+- X1 - Packs de cables macho-hembra
+<br>
+- X1 - Modulo HC-05
+<br>
+- X1 - Cubo RUBIK Stickerless (preferentemente un modelo similar a este debido a que no probamos si funciona el reconocimiento de colores de la aplicacion con otro cubo)
+<br>
+
 # Impresiones 3D
 <br>
 -Las impresiones 3D fueron sacadas de la siguiente fuente: 
