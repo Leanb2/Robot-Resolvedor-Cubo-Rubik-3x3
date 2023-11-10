@@ -4,7 +4,9 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 # Impresiones 3D
 <br>
 -Las impresiones 3D fueron sacadas de la siguiente fuente: https://github.com/EmanGM/Arduino-RubikSolver/tree/master
-<br>https://www.youtube.com/watch?v=ZHaAKOHkDEo&list=LL&index=14&t=14s
+<br>
+https://www.youtube.com/watch?v=ZHaAKOHkDEo&list=LL&index=14&t=14s
+<br>
 # Programas necesarios
 -Visual Studio Code: https://code.visualstudio.com/
 <br>
