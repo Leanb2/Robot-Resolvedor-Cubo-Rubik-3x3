@@ -3,11 +3,15 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 <br>
 # Impresiones 3D
 <br>
--Las impresiones 3D fueron sacadas de la siguiente fuente: https://github.com/EmanGM/Arduino-RubikSolver/tree/master
+-Las impresiones 3D fueron sacadas de la siguiente fuente: 
+<br>
+https://github.com/EmanGM/Arduino-RubikSolver/tree/master
 <br>
 https://www.youtube.com/watch?v=ZHaAKOHkDEo&list=LL&index=14&t=14s
 <br>
+
 # Programas necesarios
+<br>
 -Visual Studio Code: https://code.visualstudio.com/
 <br>
 -Python 3.9(con versiones mas nuevas no funciona debido a que la libreria que utilizamos no tiene soporte en versiones mas nuevas): https://www.python.org/downloads/release/python-390/  o  buscarlo en "Microsoft Store" en windows(recomiendo esta opcion debido a que es mas sencilla).
