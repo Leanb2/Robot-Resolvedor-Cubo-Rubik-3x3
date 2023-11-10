@@ -1,10 +1,13 @@
 # Robot-Resolvedor-Cubo-Rubik-3x3
 Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en un robot que es capaz de resolver el cubo Rubik 3x3 de forma autónoma mediante el uso de un Arduino UNO y una aplicación Android creada por nosotros en App Inventor   
-
+<br>
 # Programas necesarios
 -Visual Studio Code: https://code.visualstudio.com/
+<br>
 -Python 3.9(con versiones mas nuevas no funciona debido a que la libreria que utilizamos no tiene soporte en versiones mas nuevas): https://www.python.org/downloads/release/python-390/  o  buscarlo en "Microsoft Store" en windows(recomiendo esta opcion debido a que es mas sencilla).
+<br>
 -Arduino: https://www.arduino.cc/en/software
+<br>
 -Aplicacion android(link adjunto en el repositorio)
 
 # Instrucciones instalacion
@@ -30,7 +33,7 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 -Arduino:
   _Instalar el software de Arduino.
   _Copiar y pegar el codigo arduino adjunto en el repositorio.
-  _Dentro del software del Arduino ir al apartado "programa" en la esquina superior izquierda, luego ir a "incluir bibliotecas" y entrar a "administrar bibliotecas...".
+  _Dentro del software del Arduino ir al apartado "programa" en la esquina superior izquierda, luego ir a "incluir bibliotecas" y entrar    a "administrar bibliotecas...".
   _Buscar la biblioteca "Adafruit PWM Servo  Driver Library" y instalarla.
 
 #Instalacion finalizada, las intrucciones de como utilizar la aplicacion para resolver el cubo esta dentro de la aplicacion misma.
