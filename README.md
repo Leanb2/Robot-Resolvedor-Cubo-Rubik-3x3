@@ -29,7 +29,9 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
   <br>
   _Una vez instalado abrir "Símbolo del sistema de Windows" o "CMD" buscando "cmd" en el buscador de windows.
   <br>
-  _Si el pip esta correctamente instalado ingresar los siguientes textos:  -"pip install rubik-solver" (esperar instalacion)
+  _Si el pip esta correctamente instalado ingresar los siguientes textos:  
+  <br>
+  -"pip install rubik-solver" (esperar instalacion)
      <br>
                                                                            -"pip install pyserial" (esperar instalacion)
          <br>
