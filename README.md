@@ -11,7 +11,7 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 -Aplicacion android(link adjunto en el repositorio)
 
 # Instrucciones instalacion
-##-Aplicacion Android:
+##Aplicacion Android:
 <br>
   _Descargar el APK adjunto en el repositorio.
   <br>
@@ -23,7 +23,7 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
   <br>
   _La aplicacion esta configurada correctamente.
 <br>
-##-Python:
+##Python:
   <br>
   _Descargar python 3.9 con pip incluido.
   <br>
@@ -35,7 +35,7 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
          <br>
                                                                            -"pip install --upgrade pip" (esperar instalacion)
 <br>
-##-Visual Studio Code:
+##Visual Studio Code:
 <br>
   _Descargar Visual Studio Code con el link adjunto anteriormente.
   <br>
@@ -43,7 +43,7 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
   <br>
   _Instalar la extension de "PYTHON" dentro del Visual Studio Code.
 <br>
-##-Arduino:
+##Arduino:
  <br>
   _Instalar el software de Arduino.
   <br>
@@ -53,4 +53,4 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
  <br>
   _Buscar la biblioteca "Adafruit PWM Servo  Driver Library" y instalarla.
 
-#Instalacion finalizada, las intrucciones de como utilizar la aplicacion para resolver el cubo esta dentro de la aplicacion misma.
+Instalacion finalizada, las intrucciones de como utilizar la aplicacion para resolver el cubo esta dentro de la aplicacion misma.
