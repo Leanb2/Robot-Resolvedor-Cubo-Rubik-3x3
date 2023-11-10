@@ -24,6 +24,8 @@ https://github.com/EmanGM/Arduino-RubikSolver/tree/master
 <br>
 https://www.youtube.com/watch?v=ZHaAKOHkDEo&list=LL&index=14&t=14s
 <br>
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Cubo_RUBIK_Stickerless.jpg</span><span>)</span>
+<br>
 
 # Programas necesarios
 <br>
