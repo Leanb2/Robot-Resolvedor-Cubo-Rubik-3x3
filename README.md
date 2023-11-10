@@ -11,29 +11,46 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 -Aplicacion android(link adjunto en el repositorio)
 
 # Instrucciones instalacion
--Aplicacion Android:
+##-Aplicacion Android:
+<br>
   _Descargar el APK adjunto en el repositorio.
+  <br>
   _Ingresar a la configuracion de la aplicacion dentro del dispositivo movil e ir al apartado de "PERMISOS".
+  <br>
   _Dentro del apartado de "PERMISOS" permitir los "archivos y contenido multimedia" y "camara".
+  <br>
   _Activar el bluetooth del dispositivo.
+  <br>
   _La aplicacion esta configurada correctamente.
-
--Python:
+<br>
+##-Python:
+  <br>
   _Descargar python 3.9 con pip incluido.
+  <br>
   _Una vez instalado abrir "Símbolo del sistema de Windows" o "CMD" buscando "cmd" en el buscador de windows.
+  <br>
   _Si el pip esta correctamente instalado ingresar los siguientes textos:  -"pip install rubik-solver" (esperar instalacion)
+     <br>
                                                                            -"pip install pyserial" (esperar instalacion)
+         <br>
                                                                            -"pip install --upgrade pip" (esperar instalacion)
-
--Visual Studio Code:
+<br>
+##-Visual Studio Code:
+<br>
   _Descargar Visual Studio Code con el link adjunto anteriormente.
+  <br>
   _Copiar y pegar el codigo de Visual Studio Code adjunto en el repositorio.
+  <br>
   _Instalar la extension de "PYTHON" dentro del Visual Studio Code.
-
--Arduino:
+<br>
+##-Arduino:
+ <br>
   _Instalar el software de Arduino.
+  <br>
   _Copiar y pegar el codigo arduino adjunto en el repositorio.
+  <br>
   _Dentro del software del Arduino ir al apartado "programa" en la esquina superior izquierda, luego ir a "incluir bibliotecas" y entrar    a "administrar bibliotecas...".
+ <br>
   _Buscar la biblioteca "Adafruit PWM Servo  Driver Library" y instalarla.
 
 #Instalacion finalizada, las intrucciones de como utilizar la aplicacion para resolver el cubo esta dentro de la aplicacion misma.
