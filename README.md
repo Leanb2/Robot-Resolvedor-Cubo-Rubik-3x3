@@ -15,6 +15,8 @@ Este es un proyecto que realizamos para el colegio La Salle Florida, consiste en
 <br>
 - X1 - Cubo RUBIK Stickerless (preferentemente un modelo similar a este debido a que no probamos si funciona el reconocimiento de colores de la aplicacion con otro cubo)
 <br>
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/Cubo RUBIK Stickerless.jpg</span><span>)</span>
+<br>
 
 # Impresiones 3D
 <br>
