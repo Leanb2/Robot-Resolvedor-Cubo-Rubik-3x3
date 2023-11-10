@@ -1,6 +1,8 @@
+#EJECUTAR SOLO CUANDO LA APLICACION ANDROID LO INDIQUE
+
 import serial ,time
 
-puerto = serial.Serial('COM4', 9600)
+puerto = serial.Serial('COM4', 9600) #Cambiar el puerto "COM" en funcion al puerto que utilices.
 datos = puerto.readline()
 
 time.sleep(1)
@@ -14,3 +16,4 @@ puerto.write(b.encode())
 time.sleep(1)
 puerto.close()
 
+#EN CASO DE DAR ERROR AL EJECUTAR, EJECUTAR NUEVAMENTE 
